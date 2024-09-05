@@ -32,7 +32,7 @@ layout: hextra-home
     title="Efficient Traffic Monetization"
     subtitle="Maximize your ad revenue with real-time bidding, connecting you with the best buyers and sellers."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/index-ef-traffic.jpg"
+    image="images/index-ef-traffic-sm.jpg"
     imageClass="hx-rounded-xl hx-top-[40%] hx-left-[24px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(0,123,255,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -40,7 +40,7 @@ layout: hextra-home
     title="Real-Time Bidding (RTB)"
     subtitle="Leverage the RTB protocol for instantaneous ad placements and optimal traffic acquisition."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-lg:hx-min-h-[340px]"
-    image="images/index-rtb.webp"
+    image="images/index-rtb-sm.jpg"
     imageClass="hx-rounded-xl hx-top-[40%] hx-left-[36px] hx-w-[180%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(34,139,34,0.15),hsla(0,0%,100%,0));"
   >}}
@@ -48,7 +48,7 @@ layout: hextra-home
     title="Advanced Analytics"
     subtitle="Monitor your traffic exchange performance with comprehensive, real-time analytics."
     class="hx-aspect-auto md:hx-aspect-[1.1/1] max-md:hx-min-h-[340px]"
-    image="images/index-analytics.webp"
+    image="images/index-analytics-sm.jpg"
     imageClass="hx-rounded-xl hx-top-[40%] hx-left-[36px] hx-w-[110%] sm:hx-w-[110%] dark:hx-opacity-80"
     style="background: radial-gradient(ellipse at 50% 80%,rgba(255,193,7,0.15),hsla(0,0%,100%,0));"
   >}}
