@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <title>RTB0</title>
+    <meta http-equiv="refresh" content="0; url=/en/" />
+    <link rel="canonical" href="/en/" />
+    <script>
+      (function () {
+        var locales = ["en", "es"];
+        var preferred =
+          (navigator.language || navigator.userLanguage || "en")
+            .slice(0, 2)
+            .toLowerCase();
+        var locale = locales.indexOf(preferred) >= 0 ? preferred : "en";
+        location.replace("/" + locale + "/" + location.search + location.hash);
+      })();
+    </script>
+  </head>
+  <body>
+    <p><a href="/en/">Redirecting to RTB0…</a></p>
+  </body>
+</html>

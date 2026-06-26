@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "title": "RTB0",
+    "description": "RTB0 Traffic Exchange Platform — buy and sell traffic through Real-Time Bidding."
+  },
+  "nav": {
+    "documentation": "Documentation",
+    "about": "About",
+    "github": "GitHub"
+  },
+  "footer": {
+    "copyright": "© {yearRange} RTB0, Inc.",
+    "githubLabel": "RTB0 GitHub Homepage"
+  },
+  "home": {
+    "badge": "Optimize Your Traffic Strategy",
+    "headline": "Revolutionize Your Advertising",
+    "headlineBreak": "with RTB0 Traffic Exchange",
+    "subtitle": "RTB0 provides advanced solutions for buying and selling traffic through the Real-Time Bidding protocol.",
+    "cta": "Start Trading",
+    "features": {
+      "monetization": {
+        "title": "Efficient Traffic Monetization",
+        "subtitle": "Maximize your ad revenue with real-time bidding, connecting you with the best buyers and sellers."
+      },
+      "rtb": {
+        "title": "Real-Time Bidding (RTB)",
+        "subtitle": "Leverage the RTB protocol for instantaneous ad placements and optimal traffic acquisition."
+      },
+      "analytics": {
+        "title": "Advanced Analytics",
+        "subtitle": "Monitor your traffic exchange performance with comprehensive, real-time analytics."
+      },
+      "integration": {
+        "title": "Seamless Integration",
+        "subtitle": "Integrate with various ad networks and platforms effortlessly to expand your reach."
+      },
+      "responsive": {
+        "title": "Responsive and Adaptive",
+        "subtitle": "Fully responsive design, ensuring a great user experience on any device."
+      },
+      "more": {
+        "title": "Explore More Features",
+        "subtitle": "Automated bidding, traffic quality optimization, fraud detection, customizable settings, and more..."
+      }
+    }
+  },
+  "about": {
+    "title": "About",
+    "paragraph1": "RTB0 is a state-of-the-art platform designed to enhance digital advertising by facilitating the buying and selling of traffic using the Real-Time Bidding (RTB) protocol. It serves as a bridge between advertisers and publishers, providing a streamlined, efficient, and scalable environment for maximizing ad revenue and optimizing traffic acquisition.",
+    "paragraph2": "Unlike traditional ad exchanges, RTB0 leverages the power of real-time bidding, allowing advertisers to bid on individual ad impressions as they become available, based on a user's profile and behavior. This results in more targeted advertising, improved conversion rates, and better ROI for advertisers, while publishers benefit from optimal pricing for their ad space.",
+    "paragraph3": "RTB0 is built with a focus on flexibility and ease of use. There are no complex setups or dependencies required to get started. With a user-friendly interface and seamless integration with various ad networks, RTB0 empowers users to customize their campaigns and strategies easily, making it the ideal choice for both beginners and seasoned professionals in the digital advertising industry.",
+    "creditsTitle": "Credits",
+    "creditsIntro": "RTB0 has been developed leveraging the following technologies and inspirations:",
+    "credits": {
+      "rtb": "Real-Time Bidding Protocol",
+      "analytics": "Advanced Analytics Platforms",
+      "integrations": "Ad Network Integrations",
+      "security": "Security and Fraud Prevention Tools"
+    }
+  },
+  "docs": {
+    "title": "Documentation",
+    "introTitle": "Introduction",
+    "welcome": "👋 Welcome to the RTB0 platform documentation!",
+    "whatIsTitle": "What is RTB0?",
+    "whatIsBody": "RTB0 is an innovative platform designed for the efficient buying and selling of digital advertising traffic using the Real-Time Bidding (RTB) protocol. RTB0 connects advertisers and publishers, providing a streamlined solution for maximizing ad revenue and optimizing traffic acquisition through real-time auctions.",
+    "featuresTitle": "Key Features",
+    "features": {
+      "rtb": "Real-Time Bidding (RTB) — Harness the power of RTB technology to execute real-time auctions for ad placements, ensuring the best possible match between advertisers and publishers for optimal traffic monetization.",
+      "analytics": "Comprehensive Analytics — Utilize in-depth analytics tools to monitor traffic flow and ad performance in real-time. Make strategic, data-driven decisions to enhance your advertising campaigns and maximize ROI.",
+      "config": "Flexible Configuration — Easily customize the platform to fit your needs. RTB0 offers versatile settings that integrate smoothly with various ad networks, allowing for tailored campaign management.",
+      "performance": "High Performance and Scalability — Built to handle large volumes of traffic with minimal latency, RTB0 ensures reliable performance and fast transactions, even during peak times.",
+      "ui": "User-Friendly Interface — Enjoy a responsive, intuitive interface designed to deliver a seamless experience across all devices, making traffic management and ad placement easier than ever.",
+      "security": "Robust Security and Fraud Prevention — Safeguard your ad investments with RTB0's advanced security measures and fraud detection systems, ensuring a secure and trustworthy environment for all transactions.",
+      "impact": "Optimized for Maximum Impact — Whether you're looking to boost your ad reach or maximize your revenue, RTB0 provides all the tools necessary to succeed in the competitive digital advertising landscape."
+    },
+    "getStartedCta": "Get started with RTB0 today and take your advertising strategy to the next level:",
+    "gettingStartedCard": {
+      "title": "Getting Started",
+      "subtitle": "Learn how to effectively buy and sell traffic with RTB0"
+    },
+    "sidebar": {
+      "more": "More"
+    },
+    "gettingStarted": {
+      "title": "Getting Started"
+    }
+  },
+  "localeSwitcher": {
+    "label": "Language"
+  },
+  "themeToggle": {
+    "light": "Switch to light mode",
+    "dark": "Switch to dark mode"
+  }
+}
