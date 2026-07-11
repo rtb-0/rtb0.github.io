@@ -1,8 +1,8 @@
+import { FeatureGrid } from "@/components/home/feature-grid";
+import { HeroBadge, HeroSection } from "@/components/home/hero-section";
+import { Link } from "@/i18n/navigation";
 import type { Metadata } from "next";
 import { getTranslations, setRequestLocale } from "next-intl/server";
-import { Link } from "@/i18n/navigation";
-import { HeroBadge, HeroSection } from "@/components/home/hero-section";
-import { FeatureGrid } from "@/components/home/feature-grid";
 
 type Props = {
   params: Promise<{ locale: string }>;
@@ -32,7 +32,7 @@ export default async function HomePage({ params }: Props) {
         "radial-gradient(ellipse at 50% 80%, rgba(0,123,255,0.15), hsla(0,0%,100%,0))",
       image: "/images/index-ef-traffic-sm.jpg",
       imageClassName:
-        "pointer-events-none absolute top-[40%] left-[24px] w-[180%] max-w-none rounded-xl sm:w-[110%] dark:opacity-80",
+        "pointer-events-none absolute top-[20%] left-[24px] w-[180%] max-w-none rounded-xl sm:w-[110%] dark:opacity-80",
     },
     {
       key: "rtb",
@@ -42,7 +42,7 @@ export default async function HomePage({ params }: Props) {
         "radial-gradient(ellipse at 50% 80%, rgba(34,139,34,0.15), hsla(0,0%,100%,0))",
       image: "/images/index-rtb-sm.jpg",
       imageClassName:
-        "pointer-events-none absolute top-[40%] left-[36px] w-[180%] max-w-none rounded-xl sm:w-[110%] dark:opacity-80",
+        "pointer-events-none absolute top-[20%] left-[36px] w-[180%] max-w-none rounded-xl sm:w-[110%] dark:opacity-80",
     },
     {
       key: "analytics",
@@ -52,7 +52,7 @@ export default async function HomePage({ params }: Props) {
         "radial-gradient(ellipse at 50% 80%, rgba(255,193,7,0.15), hsla(0,0%,100%,0))",
       image: "/images/index-analytics-sm.jpg",
       imageClassName:
-        "pointer-events-none absolute top-[40%] left-[36px] w-[110%] max-w-none rounded-xl sm:w-[110%] dark:opacity-80",
+        "pointer-events-none absolute top-[20%] left-[36px] w-[110%] max-w-none rounded-xl sm:w-[110%] dark:opacity-80",
     },
     {
       key: "integration",
@@ -60,9 +60,9 @@ export default async function HomePage({ params }: Props) {
       subtitle: t("features.integration.subtitle"),
       gradient:
         "radial-gradient(ellipse at 50% 80%, rgba(0,123,255,0.1), hsla(0,0%,100%,0))",
-      image: "/images/feature-integration.svg",
+      image: "/images/feature-integration.jpg",
       imageClassName:
-        "pointer-events-none absolute top-[8%] left-1/2 w-[85%] max-w-none -translate-x-1/2 dark:opacity-80",
+        "pointer-events-none absolute top-[20%] left-[36px] w-[110%] max-w-none rounded-xl sm:w-[110%] dark:opacity-80",
     },
     {
       key: "responsive",
@@ -70,9 +70,9 @@ export default async function HomePage({ params }: Props) {
       subtitle: t("features.responsive.subtitle"),
       gradient:
         "radial-gradient(ellipse at 50% 80%, rgba(34,139,34,0.1), hsla(0,0%,100%,0))",
-      image: "/images/feature-responsive.svg",
+      image: "/images/feature-responsive.jpg",
       imageClassName:
-        "pointer-events-none absolute top-[8%] left-1/2 w-[85%] max-w-none -translate-x-1/2 dark:opacity-80",
+        "pointer-events-none absolute top-[20%] left-[36px] w-[110%] max-w-none rounded-xl sm:w-[110%] dark:opacity-80",
     },
     {
       key: "more",
@@ -80,9 +80,9 @@ export default async function HomePage({ params }: Props) {
       subtitle: t("features.more.subtitle"),
       gradient:
         "radial-gradient(ellipse at 50% 80%, rgba(255,193,7,0.1), hsla(0,0%,100%,0))",
-      image: "/images/feature-more.svg",
+      image: "/images/feature-more.jpg",
       imageClassName:
-        "pointer-events-none absolute top-[8%] left-1/2 w-[85%] max-w-none -translate-x-1/2 dark:opacity-80",
+        "pointer-events-none absolute top-[20%] left-[36px] w-[110%] max-w-none rounded-xl sm:w-[110%] dark:opacity-80",
     },
   ];
 

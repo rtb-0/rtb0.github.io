@@ -39,7 +39,7 @@ function FeatureCard({
 }: FeatureCardProps) {
   return (
     <div
-      className="relative flex min-h-[340px] flex-col justify-end overflow-hidden rounded-2xl border border-border bg-card p-6 md:aspect-[1.1/1] md:min-h-0"
+      className="relative flex min-h-[240px] flex-col justify-end overflow-hidden rounded-2xl border border-border bg-card p-6 md:aspect-[1.5/1] md:min-h-0"
       style={gradient ? { background: gradient } : undefined}
     >
       {image && (
